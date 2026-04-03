@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
+<img src="![yr7mWNHRvT2PdKUfUEHDw](https://github.com/user-attachments/assets/5ae67440-3cd6-4183-b803-693dc42c71ec)" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I’m currently starting my journey in Cybersecurity while building a solid foundation in programming.
