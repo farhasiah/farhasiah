@@ -2,17 +2,16 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=farhasiah">
-    <img src="(https://github.com/user-attachments/assets/5ae67440-3cd6-4183-b803-693dc42c71ec)" alt="farhasiah's profile views" />
+    <img src="https://github.com/user-attachments/assets/5ae67440-3cd6-4183-b803-693dc42c71ec" alt="farhasiah's profile views" />
   </a>
 </p>
 
-<img src=""https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I’m currently starting my journey in Cybersecurity while building a solid foundation in programming.
 - I have beginner-level experience in Java and Python, along with basic knowledge of DBMS and Java AWT.
 - I’m focused on learning by building and improving consistently.
-
 
 ## 🧠 My Focus Areas
 - Cybersecurity (Learning Phase)
@@ -21,7 +20,6 @@
 - DBMS (Fundamentals)
 - Java AWT (GUI Basics)
 
-
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/farhasiah">
@@ -29,24 +27,34 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=farhasiah&theme=radical&hide_border=true&cache_seconds=86400" alt="farhasiah's GitHub Streak" width="49%" />
 </p>
+
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=farhasiah&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Farha Siah's GitHub Trophies" />
 </p>
+
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=farhasiah&theme=radical&radius=10" alt="farhasiah's Activity Graph" />
 </p>
 
-
 ## 🛠️ Languages & Tools
 
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /></p>
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" />
+</p>
 
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /></p>
+### 🎨 Frontend
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" />
+</p>
 
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /></p>
+### 🗄️ Database
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" />
+</p>
 
 <p align="center">
   <a href="https://github.com/farhasiah">
